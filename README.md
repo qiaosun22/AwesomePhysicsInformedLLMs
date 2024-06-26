@@ -9,13 +9,20 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
   The paper proposes PE-GPT, a custom-tailored large language model uniquely adapted for power converter modulation design. By harnessing in-context learning and specialized tiered physics-informed neural networks, PE-GPT guides users through text-based dialogues, recommending actionable modulation parameters.
 
 
-
 ### Literature Reviews
 
+#### Energy-Based Models
+- Du, Y., Mao, J., & Tenenbaum, J. B. Learning Iterative Reasoning through Energy Diffusion. In Forty-first International Conference on Machine Learning. [link](https://arxiv.org/pdf/2406.11179v1)
+- Du, Y., Mao, J., & Tenenbaum, J. B. Learning Iterative Reasoning through Energy Diffusion. In Forty-first International Conference on Machine Learning. [link](https://proceedings.mlr.press/v162/du22d/du22d.pdf) \
+  They propose Energy-Based Models as a methodology for reasoning, with a learning an energy landscape.
+
+#### Read World Simulators
+- Yang, M., Du, Y., Ghasemipour, K., Tompson, J., Schuurmans, D., & Abbeel, P. (2023). Learning interactive real-world simulators. arXiv preprint arXiv:2310.06114. [link](https://arxiv.org/pdf/2310.06114)
 
 ### Lectures
-[Physics-informed machine learning –
+- [Physics-informed machine learning –
 Hype or new trend in computational engineering?](https://homepage.tudelft.nl/y95n9/files/presentations/icsm2023.pdf)
+
 
 
 

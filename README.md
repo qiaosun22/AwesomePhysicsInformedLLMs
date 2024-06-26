@@ -19,6 +19,11 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 #### Read World Simulators
 - Yang, M., Du, Y., Ghasemipour, K., Tompson, J., Schuurmans, D., & Abbeel, P. (2023). Learning interactive real-world simulators. arXiv preprint arXiv:2310.06114. [link](https://arxiv.org/pdf/2310.06114)
 
+#### Compositional Generative Modeling
+- Du, Y., & Kaelbling, L. (2024). Compositional Generative Modeling: A Single Model is Not All You Need. arXiv preprint arXiv:2402.01103. [link](https://arxiv.org/pdf/2402.01103) 
+#### Universal Policies
+- Du, Y., Yang, S., Dai, B., Dai, H., Nachum, O., Tenenbaum, J., ... & Abbeel, P. (2024). Learning universal policies via text-guided video generation. Advances in Neural Information Processing Systems, 36. [link](https://arxiv.org/pdf/2302.00111)
+
 ### Lectures
 - [Physics-informed machine learning –
 Hype or new trend in computational engineering?](https://homepage.tudelft.nl/y95n9/files/presentations/icsm2023.pdf)

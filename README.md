@@ -11,6 +11,11 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 
 ### Literature Reviews
 
+#### Neural Symbolics
+- Hsu, J., Mao, J., Tenenbaum, J., & Wu, J. (2024). What’s left? concept grounding with logic-enhanced foundation models. Advances in Neural Information Processing Systems, 36. [link](https://arxiv.org/pdf/2404.19696)
+- Liu, W., Chen, G., Hsu, J., Mao, J., & Wu, J. (2024). Learning Planning Abstractions from Language. arXiv preprint arXiv:2405.03864. [link](https://openreview.net/pdf?id=3UWuFoksGb)
+- Feng, C., Hsu, J., Liu, W., & Wu, J. (2024). Naturally supervised 3d visual grounding with language-regularized concept learners. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 13269-13278). [link](https://arxiv.org/pdf/2404.19696)
+- Zhen, H., Qiu, X., Chen, P., Yang, J., Yan, X., Du, Y., ... & Gan, C. (2024). 3d-vla: A 3d vision-language-action generative world model. arXiv preprint arXiv:2403.09631. [link](https://arxiv.org/pdf/2403.09631)
 #### Energy-Based Models
 - Du, Y., Mao, J., & Tenenbaum, J. B. Learning Iterative Reasoning through Energy Diffusion. In Forty-first International Conference on Machine Learning. [link](https://arxiv.org/pdf/2406.11179v1)
 - Du, Y., Mao, J., & Tenenbaum, J. B. Learning Iterative Reasoning through Energy Diffusion. In Forty-first International Conference on Machine Learning. [link](https://proceedings.mlr.press/v162/du22d/du22d.pdf) \

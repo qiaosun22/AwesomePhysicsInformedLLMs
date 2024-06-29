@@ -12,12 +12,16 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 ### Literature Reviews
 #### Physics-Informed Neural Networks (PINNs)
 - Daw, A., Karpatne, A., Watkins, W. D., Read, J. S., & Kumar, V. (2022). Physics-guided neural networks (pgnn): An application in lake temperature modeling. In Knowledge Guided Machine Learning (pp. 353-372). Chapman and Hall/CRC. [link](https://arxiv.org/pdf/1710.11431)
-- Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707. [link](https://faculty.sites.iastate.edu/hliu/files/inline-files/PINN_RPK_2019_1.pdf) 
-
+  
 - Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1711.10561 (2017). [link](Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2017). Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations. arXiv preprint arXiv:1711.10561.)
 
 - Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1711.10566 (2017). [link](https://arxiv.org/pdf/1711.10566)
+  
+- Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707. [link](https://faculty.sites.iastate.edu/hliu/files/inline-files/PINN_RPK_2019_1.pdf) 
 
+
+
+- Graph Neural Networks in Particle Physics: Implementations, Innovations, and Challenges [link](https://arxiv.org/pdf/2203.12852)
 
 - Chen, Yanlai, and Shawn Koohy. "Gpt-pinn: Generative pre-trained physics-informed neural networks toward non-intrusive meta-learning of parametric pdes." Finite Elements in Analysis and Design 228 (2024): 104047. [link](https://arxiv.org/pdf/2303.14878)
 
@@ -64,7 +68,7 @@ Alexander Leschik. [Forecasting with Physics Informed Machine Learning (PIML)](h
    - **Improved Training Algorithms**: Advances in optimization techniques, such as adaptive learning rates and physics-based regularization methods, have significantly improved the training efficiency of PINNs.
    - **Multi-Scale and Multi-Physics Problems**: Recent work has extended PINNs to handle complex multi-scale and multi-physics problems, making them applicable to a wider range of scientific and engineering challenges.
 
-3. **Graph Neural Networks (GNNs) for Physical Systems**
+3. **Graph Neural Networks (GNNs) for Physical Systems** (2022)
    - **Graph-based Representations**: GNNs have been utilized to model the interactions within physical systems, such as molecular dynamics and material science, by representing systems as graphs where nodes correspond to particles or atoms and edges represent interactions.
    - **Scalable and Efficient Computations**: Improvements in GNN architectures and training methods have enabled the scalable and efficient simulation of large physical systems.
 

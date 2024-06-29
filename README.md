@@ -26,8 +26,18 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 - Chen, Yanlai, and Shawn Koohy. "Gpt-pinn: Generative pre-trained physics-informed neural networks toward non-intrusive meta-learning of parametric pdes." Finite Elements in Analysis and Design 228 (2024): 104047. [link](https://arxiv.org/pdf/2303.14878)
 
 - Ni, R., & Qureshi, A. H. (2024). Physics-informed Neural Motion Planning on Constraint Manifolds. arXiv preprint arXiv:2403.05765. [link](https://arxiv.org/pdf/2403.05765)
-   _Neural Motion Planners (NMPs)_ 
+  Contributes generally in three folds:
+  - Introduces physics-informed neural network to _Neural Motion Planners (NMPs)_.
+  - Formulates a physics-driven objective function.
+  - Reflect the physics-driven objective function to directly parameterize the Eikonal equation and generate time fields for different scenarios, including a 6-DOF manipulator space, under collision-avoidance and other kinematic constraints.
+  Limitations:
+  - Only generalizes to the new start and goal configurations in given environments.
+  - Reliance on specific PDE formulations to train physics-informed NMPs.
+  -  solve motion planning and control under dynamic constraints.
 
+Hence, we also aim to extend our neural field method to
+generalize across novel environment encoding architectures.
+Second, 
 #### Video Language Planning
 - Du, Y., Yang, M., Florence, P., Xia, F., Wahid, A., Ichter, B., ... & Tompson, J. (2023). [link](https://arxiv.org/pdf/2310.10625)
 

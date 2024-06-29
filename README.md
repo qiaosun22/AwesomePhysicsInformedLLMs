@@ -68,15 +68,6 @@ Alexander Leschik. [Forecasting with Physics Informed Machine Learning (PIML)](h
    - **Graph-based Representations**: GNNs have been utilized to model the interactions within physical systems, such as molecular dynamics and material science, by representing systems as graphs where nodes correspond to particles or atoms and edges represent interactions.
    - **Scalable and Efficient Computations**: Improvements in GNN architectures and training methods have enabled the scalable and efficient simulation of large physical systems.
 
-4. **Integration with High-Performance Computing (HPC)**
-   - **Accelerated Simulations**: The integration of LLMs with HPC resources has accelerated simulations, allowing for real-time data analysis and faster iteration cycles in research and development.
-   - **Parallel Training and Inference**: Advances in parallel computing have facilitated the training and deployment of large-scale physics-informed models, enabling their use in complex and computationally intensive applications.
-
-5. **Applications in Scientific Research**
-   - **Climate Modeling**: Physics-informed LLMs have been applied to improve climate models, enhancing predictions of weather patterns, climate change impacts, and extreme weather events.
-   - **Biomedical Engineering**: These models have been used to simulate biological systems, aiding in drug discovery, personalized medicine, and the understanding of complex biological processes.
-   - **Engineering and Material Science**: Physics-informed LLMs have been utilized in the design and analysis of new materials, optimizing their properties for various applications.
-
 ### Challenges and Future Directions
 
 1. **Scalability and Generalization**

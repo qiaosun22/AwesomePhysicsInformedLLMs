@@ -50,17 +50,17 @@ Hype or new trend in computational engineering?](https://homepage.tudelft.nl/y95
 
 - [Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning](https://www.youtube.com/watch?v=-zrY7P2dVC4&t=1326s)
 
-
-
 ### Media & Web Resouces
 Alexander Leschik. [Forecasting with Physics Informed Machine Learning (PIML)](https://medium.com/@royaltokens/forecasting-with-physics-informed-machine-learning-piml-670a6e168293)
-### Key Advances
 
-1. **Hybrid Models Combining Physics and Data-Driven Approaches**
+
+### Milestones
+
+1. **Hybrid Models Combining Physics and Data-Driven Approaches** (2017)
    - **Physics-Guided Neural Networks (PGNNs)**: PGNNs incorporate physical laws directly into the training process, reducing the need for large datasets and enhancing model interpretability.
    - **Differentiable Physics**: This approach integrates differentiable physics solvers with neural networks, allowing models to learn physical dynamics more effectively.
 
-2. **Physics-Informed Neural Networks (PINNs)**
+2. **Physics-Informed Neural Networks (PINNs)** (2019)
    - **Improved Training Algorithms**: Advances in optimization techniques, such as adaptive learning rates and physics-based regularization methods, have significantly improved the training efficiency of PINNs.
    - **Multi-Scale and Multi-Physics Problems**: Recent work has extended PINNs to handle complex multi-scale and multi-physics problems, making them applicable to a wider range of scientific and engineering challenges.
 

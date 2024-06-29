@@ -10,9 +10,19 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 
 
 ### Literature Reviews
+#### Physics-Informed Neural Networks (PINNs)
+- Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707.
+
+- Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1711.10561 (2017).
+
+- Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1711.10566 (2017).
+
+
+- Chen, Yanlai, and Shawn Koohy. "Gpt-pinn: Generative pre-trained physics-informed neural networks toward non-intrusive meta-learning of parametric pdes." Finite Elements in Analysis and Design 228 (2024): 104047. [link](https://arxiv.org/pdf/2303.14878)
+
 
 #### Video Language Planning
-Du, Y., Yang, M., Florence, P., Xia, F., Wahid, A., Ichter, B., ... & Tompson, J. (2023). [link](https://arxiv.org/pdf/2310.10625)
+- Du, Y., Yang, M., Florence, P., Xia, F., Wahid, A., Ichter, B., ... & Tompson, J. (2023). [link](https://arxiv.org/pdf/2310.10625)
 
 #### Neural Symbolics
 - Hsu, J., Mao, J., Tenenbaum, J., & Wu, J. (2024). What’s left? concept grounding with logic-enhanced foundation models. Advances in Neural Information Processing Systems, 36. [link](https://arxiv.org/pdf/2404.19696)
@@ -37,6 +47,7 @@ Du, Y., Yang, M., Florence, P., Xia, F., Wahid, A., Ichter, B., ... & Tompson, J
 - [Physics-informed machine learning –
 Hype or new trend in computational engineering?](https://homepage.tudelft.nl/y95n9/files/presentations/icsm2023.pdf)
 
+- [Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning](https://www.youtube.com/watch?v=-zrY7P2dVC4&t=1326s)
 
 
 

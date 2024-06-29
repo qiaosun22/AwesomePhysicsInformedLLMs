@@ -52,7 +52,7 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 - [Physics-informed machine learning –
 Hype or new trend in computational engineering?](https://homepage.tudelft.nl/y95n9/files/presentations/icsm2023.pdf)
 
-- [Physics Informed Neural Networks (PINNs) [Physics Informed Machine Learning](https://www.youtube.com/watch?v=-zrY7P2dVC4&t=1326s)
+- (PINNs) [Physics Informed Machine Learning](https://www.youtube.com/watch?v=-zrY7P2dVC4&t=1326s)
 
 ### Media & Web Resouces
 Alexander Leschik. [Forecasting with Physics Informed Machine Learning (PIML)](https://medium.com/@royaltokens/forecasting-with-physics-informed-machine-learning-piml-670a6e168293)

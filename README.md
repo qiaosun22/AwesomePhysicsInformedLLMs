@@ -36,7 +36,11 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
   -  solve motion planning and control under dynamic constraints.
 
 #### 3D LLMs
+To enable the pyhysics-aware embodied abilities of LLMs, the 3D perception is vital:
 - Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (2023). 3d-llm: Injecting the 3d world into large language models. Advances in Neural Information Processing Systems, 36, 20482-20494. [link](https://arxiv.org/pdf/2307.12981)
+  Several tasks are concluded:
+  ![image](https://github.com/qiaosun22/AwesomePhysicsInformedLLMs/assets/136222260/c11a006a-0129-4675-a7e7-f3e16a4af442)
+
 - Zhen, H., Qiu, X., Chen, P., Yang, J., Yan, X., Du, Y., ... & Gan, C. (2024). 3d-vla: A 3d vision-language-action generative world model. arXiv preprint arXiv:2403.09631. [link](https://arxiv.org/pdf/2403.09631)
   This work is based on Hong et al. (2023). 
 

@@ -35,6 +35,10 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
   - Reliance on specific PDE formulations to train physics-informed NMPs.
   -  solve motion planning and control under dynamic constraints.
 
+#### 3D LLMs
+- Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (2023). 3d-llm: Injecting the 3d world into large language models. Advances in Neural Information Processing Systems, 36, 20482-20494. [link](https://arxiv.org/pdf/2307.12981)
+- Zhen, H., Qiu, X., Chen, P., Yang, J., Yan, X., Du, Y., ... & Gan, C. (2024). 3d-vla: A 3d vision-language-action generative world model. arXiv preprint arXiv:2403.09631. [link](https://arxiv.org/pdf/2403.09631)
+  This work is based on Hong et al. (2023). 
 
 #### Video Language Planning
 - Du, Y., Yang, M., Florence, P., Xia, F., Wahid, A., Ichter, B., ... & Tompson, J. (2023). [link](https://arxiv.org/pdf/2310.10625)
@@ -43,8 +47,6 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
 - Hsu, J., Mao, J., Tenenbaum, J., & Wu, J. (2024). What’s left? concept grounding with logic-enhanced foundation models. Advances in Neural Information Processing Systems, 36. [link](https://arxiv.org/pdf/2404.19696)
 - Liu, W., Chen, G., Hsu, J., Mao, J., & Wu, J. (2024). Learning Planning Abstractions from Language. arXiv preprint arXiv:2405.03864. [link](https://openreview.net/pdf?id=3UWuFoksGb)
 - Feng, C., Hsu, J., Liu, W., & Wu, J. (2024). Naturally supervised 3d visual grounding with language-regularized concept learners. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 13269-13278). [link](https://arxiv.org/pdf/2404.19696)
-- Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (2023). 3d-llm: Injecting the 3d world into large language models. Advances in Neural Information Processing Systems, 36, 20482-20494. [link](https://arxiv.org/pdf/2307.12981)
-- Zhen, H., Qiu, X., Chen, P., Yang, J., Yan, X., Du, Y., ... & Gan, C. (2024). 3d-vla: A 3d vision-language-action generative world model. arXiv preprint arXiv:2403.09631. [link](https://arxiv.org/pdf/2403.09631)
 - Hsu, J., Mao, J., & Wu, J. (2023). Ns3d: Neuro-symbolic grounding of 3d objects and relations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2614-2623). [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_NS3D_Neuro-Symbolic_Grounding_of_3D_Objects_and_Relations_CVPR_2023_paper.pdf)
 #### Energy-Based Models
 - Du, Y., Mao, J., & Tenenbaum, J. B. Learning Iterative Reasoning through Energy Diffusion. In Forty-first International Conference on Machine Learning. [link](https://arxiv.org/pdf/2406.11179v1)

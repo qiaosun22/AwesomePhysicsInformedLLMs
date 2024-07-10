@@ -35,6 +35,11 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
   - Reliance on specific PDE formulations to train physics-informed NMPs.
   -  solve motion planning and control under dynamic constraints.
 
+#### Rigid Body Dynamics Inferring
+- Bhat, Kiran S., et al. "Computing the physical parameters of rigid-body motion from video." Computer Vision—ECCV 2002: 7th European Conference on Computer Vision Copenhagen, Denmark, May 28–31, 2002 Proceedings, Part I 7. Springer Berlin Heidelberg, 2002. [link](https://www.researchgate.net/profile/Pradeep-Khosla/publication/2852361_Computing_the_Physical_Parameters_of_Rigid-Body_Motion_from_Video/links/0deec530a92495948d000000/Computing-the-Physical-Parameters-of-Rigid-Body-Motion-from-Video.pdf)
+- Heiden, Eric, et al. "Inferring articulated rigid body dynamics from rgbd video." 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2022. [linl](https://arxiv.org/pdf/2203.10488)
+
+
 #### 3D LLMs
 To enable the pyhysics-aware embodied abilities of LLMs, the 3D perception is vital:
 - Hong, Y., Zhen, H., Chen, P., Zheng, S., Du, Y., Chen, Z., & Gan, C. (2023). 3d-llm: Injecting the 3d world into large language models. Advances in Neural Information Processing Systems, 36, 20482-20494. [link](https://arxiv.org/pdf/2307.12981)\

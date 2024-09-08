@@ -8,7 +8,7 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
   ![image](https://github.com/qiaosun22/AwesomePhysicsInformedLLMs/assets/136222260/3b649ee5-1c36-413e-b8ad-11b75fb44693)
   The paper proposes PE-GPT, a custom-tailored large language model uniquely adapted for power converter modulation design. By harnessing in-context learning and specialized tiered physics-informed neural networks, PE-GPT guides users through text-based dialogues, recommending actionable modulation parameters.  
 
-
+ 
 ### Literature Reviews
 #### Physics-Informed Neural Networks (PINNs)
 

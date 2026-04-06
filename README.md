@@ -8,6 +8,9 @@ Physics-Informed Large Language Models (LLMs) represent an innovative integratio
   ![image](https://github.com/qiaosun22/AwesomePhysicsInformedLLMs/assets/136222260/3b649ee5-1c36-413e-b8ad-11b75fb44693)
   The paper proposes PE-GPT, a custom-tailored large language model uniquely adapted for power converter modulation design. By harnessing in-context learning and specialized tiered physics-informed neural networks, PE-GPT guides users through text-based dialogues, recommending actionable modulation parameters.  
 
+- Sun, Y. and Haghighat, B., 2025. Phase Transitions in Large Language Models and the O(N) Model. ICML 2025. arXiv preprint arXiv:2501.16241. [Link](https://arxiv.org/abs/2501.16241)
+  Recasts the Transformer as an O(N) vector model and measures thermodynamic quantities (energy, specific heat) across generation temperatures. Two phase transitions show up, yielding an internal dimension estimate of about 6, with an interpretation via renormalization group (RG) flow.
+
  
 ### Literature Reviews
 #### Physics-Informed Neural Networks (PINNs)
